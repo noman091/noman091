@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohd Noman</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="👋" width="40" height="40"/>, I'm Mohd Noman</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
 <h3 align="left">Languages and Tools:</h3>
